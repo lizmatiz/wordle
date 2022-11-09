@@ -9,3 +9,5 @@ python3 -m pip install termcolor
 ```sh
 python3 wordle.py
 ````
+This is a recreation of the game, Wordle...
+https://www.nytimes.com/games/wordle/index.html
